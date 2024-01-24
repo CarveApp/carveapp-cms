@@ -31,18 +31,26 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="content">
                     <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
+                      <h2 className="title is-size-3">{mainpitch.title}</h2>
                     </div>
                     <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
+                      <p className="has-text-weight-normal is-size-5 m-0">{mainpitch.description}</p>
                     </div>
                   </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h3 className="has-text-weight-semibold">
                         {heading}
                       </h3>
                       <p>{description}</p>
+                    </div>
+                  </div>
+
+                  <div className="columns">
+                    <div className="column is-12">
+                      <h3 className="has-text-weight-semibold">
+                        Why Choose CarveApp Solutions?
+                      </h3>
                     </div>
                   </div>
                   <Features gridItems={intro.blurbs} />
@@ -135,10 +143,11 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
+                gatsbyImageData(width: 300, quality: 64, layout: CONSTRAINED)
               }
             }
             text
+            heading
           }
           heading
           description

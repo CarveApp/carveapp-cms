@@ -1,50 +1,34 @@
 ---
 templateKey: index-page
-title: Carve your dream projects into reality
+title: "CarveApp Solutions: Crafting Digital Excellence"
+subheading: Innovate. Transform. Succeed
 image: /img/home-jumbotron.jpg
-heading: Easing out the web and app development process
-subheading: We will bring out the full potential of your projects
 mainpitch:
-  title: Why CarveApp
+  title: Welcome to CarveApp Solutions
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    At CarveApp Solutions, we blend innovation with functionality to deliver digital solutions that carve a path to success. From converting websites to apps to providing comprehensive digital services, we are your dedicated partner in the digital realm.
+heading: Our Mission
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Carving a Digital Future - We are on a mission to empower businesses and individuals through cutting-edge digital products and services. Our commitment is to create solutions that not only meet but exceed expectations.
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/innovative-solutions.jpg
+      heading: >
+        Innovative Solutions
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We stay ahead of the curve, constantly innovating to bring you the latest in digital technology.
+    - image: /img/user-centric.jpg
+      heading: >
+        User-Centric Approach
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Our products and services are designed with your end-users in mind, ensuring a seamless and enjoyable experience.
+    - image: /img/proven-expertise.jpg
+      heading: >
+        Proven Expertise
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        With a talented team of developers, designers, and strategists, we have the expertise to bring your digital vision to life.
+        
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
