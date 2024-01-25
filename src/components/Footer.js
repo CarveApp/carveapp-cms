@@ -34,7 +34,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link className="navbar-item" to="/products">
-                      Products
+                      Services
                     </Link>
                   </li>
 
