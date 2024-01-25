@@ -37,11 +37,7 @@ const Footer = () => {
                       Products
                     </Link>
                   </li>
-                  <li>
-                    <Link className="navbar-item" to="/contact/examples">
-                      Form Examples
-                    </Link>
-                  </li>
+
                   <li>
                     <a
                       className="navbar-item"
@@ -88,6 +84,10 @@ const Footer = () => {
                   style={{ width: "1em", height: "1em" }}
                 />
               </a>
+              <div style={{marginTop: '16px'}}>
+                <label>All Rights Reserved</label>
+                <label className="is-block">CarveApp Solutions (OPC) Pvt Ltd</label>
+              </div>
             </div>
           </div>
         </div>

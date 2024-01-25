@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Our Membership plans
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
@@ -62,29 +62,34 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Choose a plan that works for you!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Ideal for individuals or small teams, the Basic Package offers full stack development services with a focus on web and mobile applications.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Get two 2-week sprint delivery
+        - Up to 10 story points per sprint
+        - Full stack development (web and mobile)
+        - Basic support (email/online chat)
+        - Easy credit card payments
+        - Pause or cancel anytime
+      plan: Basic
+      price: '1500'
+    - description: Designed for more demanding projects, the Pro Package delivers faster and longer  full stack development services.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Get three 2-week sprint delivery
+        - Up to 15 story points per sprint
+        - Full stack development (web and mobile)
+        - Basic support (email/online chat)
+        - Priority support (dedicated account manager, priority email/online chat support)
+        - Easy credit card payments
+        - Pause or cancel anytime
+      plan: Pro
+      price: '2700'
+    - description: Could not find your desired pack? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Initial consultation to understand your specific needs
+        - Personalized strategy session to discuss project requirements
+        - Customization based on your unique specifications.
       plan: Custom
       price: '??'
 ---
